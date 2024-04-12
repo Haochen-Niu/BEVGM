@@ -2,7 +2,7 @@
 
 Public code of "BEVGM: A Visual Place Recognition Method with Bird's Eye View Graph Matching", which is accepted by RAL 2024.
 
-![image-20240411092542211](../../proj/BEVGM/README.assets/image-20240411092542211.png)
+![image-20240411092542211](./README.assets/image-20240411092542211.png)
 
 
 
