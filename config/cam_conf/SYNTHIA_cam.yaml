@@ -1,0 +1,23 @@
+# camera calibration matrix K--camera_intrinsics
+fx: 532.7403520000000
+fy: 532.7403520000000
+cx: 640
+cy: 380
+K: 532.7403520000000 0 640 0 532.7403520000000 380 0 0 1
+
+
+R:
+  #  1, 0, 0, 0, 0, 1, 0, -1, 0,  # here the definition is ambiguous
+  1 0 0 0 1 0 0 0 1
+yaw: 0.0
+pitch: 0.0
+roll: 0.0
+
+# camera origin in vehicle coords
+XCam: 0.0
+YCam: -1.6
+ZCam: 0.0  # ??
+
+# FOV(in deg)
+fov: 100.0  # from the paper
+

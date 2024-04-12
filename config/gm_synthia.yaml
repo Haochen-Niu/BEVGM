@@ -1,0 +1,88 @@
+data_dic:
+  "fv":
+    type: "fv"
+
+    "stuff": [
+      'road',
+      'sidewalk',
+      'building',
+      'wall',
+      'fence',
+      'pole',
+      'traffic light',
+      'traffic sign',
+      'vegetation',
+      'terrain',
+      'sky',
+      'person',
+      'rider',
+      'car',
+      'truck',
+      'bus',
+      'train',
+      'motorcycle',
+      'bicycle' ]
+
+    "class_names":
+      'road': 0
+      'sidewalk': 1
+      'building': 2
+      'wall': 3
+      'fence': 4
+      'pole': 5
+      'traffic light': 6
+      'traffic sign': 7
+      'vegetation': 8
+      'terrain': 9
+      'sky': 10
+      'person': 11
+      'rider': 12
+      'car': 13
+      'truck': 14
+      'bus': 15
+      'train': 16
+      'motorcycle': 17
+      'bicycle': 18
+
+    "color": [
+      [ 128, 64, 128 ], [ 244, 35, 232 ], [ 70, 70, 70 ], [ 102, 102, 156 ], [ 190, 153, 153 ], [ 153, 153, 153 ], [ 250, 170, 30 ], [ 220, 220, 0 ], [ 107, 142, 35 ], [ 152, 251, 152 ], [ 70, 130, 180 ], [ 220, 20, 60 ], [ 255, 0, 0 ], [ 0, 0, 142 ], [ 0, 0, 70 ], [ 0, 60, 100 ], [ 0, 80, 100 ], [ 0, 0, 230 ], [ 119, 11, 32 ]
+    ]
+
+    "object": # [if thing, eps, min_samples]
+      'building': [ 0,120,100 ]
+      #      'wall',
+      #      'pole': [ 0,10,100 ]
+      #      'traffic light': [ 0,50,50 ]
+      'traffic sign': [ 0,50,50 ]
+    #      'car': [ 1,0,0 ]  # id >10 is thing
+    #      'fence': [ 0,10,11 ]
+
+    "background":
+      'road': 1  # means road need to be ipm
+      'sidewalk': 1
+      #      'fence': 0
+      'vegetation': 0
+      'terrain': 0  # note
+      'wall': 0
+
+    "ignore": [
+      'sky',
+      'person',
+      'rider',
+      'truck',
+      'bus',
+      'train',
+      'motorcycle',
+      'bicycle'
+    ]
+
+    "as_road": [
+      'car',
+      'person',
+      'rider',
+      'truck',
+      'bus',
+      'train',
+      'motorcycle',
+      'bicycle',
+    ]
