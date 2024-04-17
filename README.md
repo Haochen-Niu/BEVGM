@@ -67,3 +67,20 @@ TODO
 
 ## Citation
 
+BibTex
+
+> @ARTICLE{10502165,
+>   author={Niu, Haochen and Liu, Peilin and Ji, Xingwu and Zhang, Lantao and Ying, Rendong and Wen, Fei},
+>   journal={IEEE Robotics and Automation Letters}, 
+>   title={BEVGM: A Visual Place Recognition Method With Bird's Eye View Graph Matching}, 
+>   year={2024},
+>   volume={},
+>   number={},
+>   pages={1-8},
+>   keywords={Visual place recognition;semantic scene understanding;localization;SLAM},
+>   doi={10.1109/LRA.2024.3389610}}
+
+Plain Text
+
+> H. Niu, P. Liu, X. Ji, L. Zhang, R. Ying and F. Wen, "BEVGM: A Visual Place Recognition Method With Bird's Eye View Graph Matching," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2024.3389610.
+> keywords: {Visual place recognition;semantic scene understanding;localization;SLAM},
