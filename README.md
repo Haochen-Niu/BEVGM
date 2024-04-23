@@ -1,6 +1,6 @@
 # BEVGM: A Visual Place Recognition Method with Bird's Eye View Graph Matching
 
-Public code of "BEVGM: A Visual Place Recognition Method with Bird's Eye View Graph Matching", which is accepted by RAL 2024.
+Public code of "[BEVGM: A Visual Place Recognition Method With Bird's Eye View Graph Matching](https://ieeexplore.ieee.org/document/10502165)", which is accepted by RAL 2024.
 
 ![image-20240411092542211](./README.assets/image-20240411092542211.png)
 
@@ -70,17 +70,15 @@ TODO
 BibTex
 
 > @ARTICLE{10502165,
->   author={Niu, Haochen and Liu, Peilin and Ji, Xingwu and Zhang, Lantao and Ying, Rendong and Wen, Fei},
->   journal={IEEE Robotics and Automation Letters}, 
->   title={BEVGM: A Visual Place Recognition Method With Bird's Eye View Graph Matching}, 
->   year={2024},
->   volume={},
->   number={},
->   pages={1-8},
->   keywords={Visual place recognition;semantic scene understanding;localization;SLAM},
->   doi={10.1109/LRA.2024.3389610}}
+>     author={Niu, Haochen and Liu, Peilin and Ji, Xingwu and Zhang, Lantao and Ying, Rendong and Wen, Fei},
+>     journal={IEEE Robotics and Automation Letters}, 
+>     title={BEVGM: A Visual Place Recognition Method With Bird's Eye View Graph Matching}, 
+>     year={2024},
+>     volume={9},
+>     number={6},
+>     pages={5142-5149},
+>     doi={10.1109/LRA.2024.3389610}}
 
 Plain Text
 
-> H. Niu, P. Liu, X. Ji, L. Zhang, R. Ying and F. Wen, "BEVGM: A Visual Place Recognition Method With Bird's Eye View Graph Matching," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2024.3389610.
-> keywords: {Visual place recognition;semantic scene understanding;localization;SLAM},
+> H. Niu, P. Liu, X. Ji, L. Zhang, R. Ying and F. Wen, "BEVGM: A Visual Place Recognition Method With Bird's Eye View Graph Matching," in IEEE Robotics and Automation Letters, vol. 9, no. 6, pp. 5142-5149, June 2024, doi: 10.1109/LRA.2024.3389610.
